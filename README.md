@@ -18,6 +18,9 @@ Logistic Regression
 K-Nearest Neighbors (KNN)
 Gaussian Naive Bayes
 
+This project has already been deployed online, and hence you can simply click the button on top to be referred to the web application
+Deployment Platform: Streamlit.io
+
 # Data Sources
 Facial Images: Extracted from the UCI Machine Learning Repository.
 Clinical Screening Data: Obtained from a Kaggle dataset focusing on different age groups, including toddlers, children, adolescents, and adults.
